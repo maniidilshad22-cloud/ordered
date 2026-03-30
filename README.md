@@ -1,1 +1,11 @@
-# ordered
+<h3>Ordered List</h3>
+<ol>
+    <li>Apple</li>
+    <li>Banana</li>
+</ol>
+
+<h3>Unordered List</h3>
+<ul>
+    <li>Cat</li>
+    <li>Dog</li>
+</ul>
